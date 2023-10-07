@@ -21,7 +21,7 @@ This project demonstrates the implementation of blockchain technology in legal c
 1. **Clone the Repository:**
    ```
    git clone https://github.com/bhavyammodi/Blockchain-Project-LegalContracts
-   cd blockchain-legal-contracts
+   cd Blockchain-Project-LegalContracts
    ```
 
 2. **Install Dependencies:**
