@@ -49,3 +49,6 @@ This project demonstrates the implementation of blockchain technology in legal c
    ```
 
    Ensure that all tests pass successfully, validating the functionality of the implemented smart contracts.
+
+Screen Recordings:
+https://github.com/bhavyammodi/Blockchain-Project-LegalContracts/assets/83846197/a7228bea-87ed-4d64-8daa-87b5963cb84f
